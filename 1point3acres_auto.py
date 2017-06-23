@@ -4,7 +4,7 @@
 from selenium import webdriver
 import time
 
-chrome_path = '/Users/jeff/Developing/chromedriver'
+chrome_path = '__YOUR__CHROME_DRIVER_PATH__'
 browser = webdriver.Chrome(chrome_path)
 browser.get('http://www.1point3acres.com/bbs/')
 browser.find_element_by_id("ls_username").send_keys("__USERNAME__")
