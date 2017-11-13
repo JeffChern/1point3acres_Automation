@@ -1,6 +1,5 @@
+# 一畝三分地自動登入 1point3acres_AutoLogin
 
-
-# 一畝三分地_自動登入 1point3acres_AutoLogin
 ```
 [2017.11.13 update]
 If your chrome will automatically open a setting page, please update your Chrome driver
@@ -12,7 +11,7 @@ If your chrome will automatically open a setting page, please update your Chrome
 $ pip install -U selenium
 ```
 
-2. Dowload [Chrome driver](https://sites.google.com/a/chromium.org/chromedriver/)
+2. Download [Chrome driver](https://sites.google.com/a/chromium.org/chromedriver/)
 
 3. Edit Chrome driver path, Username, Password in 1point3acres_auto.py
 ```
