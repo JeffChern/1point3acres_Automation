@@ -1,6 +1,9 @@
 # 一畝三分地自動登入 1point3acres_AutoLogin
 
 ```
+[2021 update]
+This repo is deprecated, obselete
+
 [2017.11.13 update]
 If your chrome will automatically open a setting page, please update your Chrome driver
 ```
