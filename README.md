@@ -1,4 +1,4 @@
-#[deprecated]
+### Deprecated
 
 ```
 [2021 update]
