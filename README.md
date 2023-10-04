@@ -1,4 +1,4 @@
-# 一畝三分地自動登入 1point3acres_AutoLogin
+#[deprecated]
 
 ```
 [2021 update]
